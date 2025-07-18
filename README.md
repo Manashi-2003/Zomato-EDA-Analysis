@@ -42,7 +42,7 @@ The dataset contains information about various restaurants listed on Zomato, inc
 This project is based on the YouTube tutorial by "The iScale".
 A big thank you to the creator for explaining the project so clearly and making it beginner-friendly.
 
-📌 License
+## 📌 License
 This project is for learning and educational use only. 
 
 
